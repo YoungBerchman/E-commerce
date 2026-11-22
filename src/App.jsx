@@ -263,7 +263,6 @@ function App() {
         <a className="wordmark" href="#" aria-label="Atelier home">
           atelier<span>.</span>
         </a>
-
         <nav
           className={`main-nav ${mobileMenuOpen ? "is-open" : ""}`}
           aria-label="Main navigation"
